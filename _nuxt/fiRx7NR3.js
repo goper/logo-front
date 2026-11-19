@@ -1,0 +1,1 @@
+import{j as n}from"./CpkWvrkz.js";import{E as o}from"./DlsnWEMt.js";import{a5 as a,K as f}from"./DKuw8jw4.js";function i(){const t=a();function e(r){const s=n(f,r);t.push(s?`${o}?from=concept`:o)}return{openInEditor:e}}export{i as u};
