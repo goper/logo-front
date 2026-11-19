@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+# Служебные данные сборки: текст страниц уже в HTML, роботу их обходить незачем.
+Disallow: /*_payload.json
 
 Sitemap: https://logo.gpt-chat.by/sitemap.xml
